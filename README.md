@@ -1,3 +1,5 @@
+![logo](https://github.com/sayan2002-github/sayan2002-github/blob/main/github%20profile.gif)
+
 <h1 align="center">Hi 👋, I'm Sayan Parui</h1>
 <h3 align="center">A full-stack web developer.</h3>
 
