@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sayan2002-github&label=Profile%20views&color=0e75b6&style=flat" alt="sayan2002-github" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sayan2002-github" alt="sayan2002-github" /></a> </p>
-
 - 👨‍💻 All of my projects are available at [https://sayan2002-github.github.io/Portfolio_SayanParui/](https://sayan2002-github.github.io/Portfolio_SayanParui/)
 
 - 📫 How to reach me **sayanparui076@gmail.com**
@@ -14,7 +12,10 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@sayanparui24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@sayanparui24" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/[Sayan Parui" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sayan parui" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sayan-parui-b1ab3a227" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sayan-parui-b1ab3a227" height="30" width="40" /></a>
+<a href="https://fb.com/sayan.paruis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sayan.paruis" height="30" width="40" /></a>
+<a href="https://instagram.com/barcaboy_24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="barcaboy_24" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/sayanparui076" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="sayanparui076" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
